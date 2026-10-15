@@ -1,0 +1,6 @@
+rawdata/
+scrapped_data/
+__pycache__/
+.DS_Store
+deduplicated_data/
+analysis_data/
